@@ -1,0 +1,14 @@
+type Query {
+  reviews: [Review!]!
+}
+
+type Review {
+  id: Int!
+  bookIsbn: String!
+  rating: Int!
+  comment: String
+}
+
+type Book {
+  isbn: String
+}

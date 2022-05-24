@@ -1,0 +1,40 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "bookIsbn": "9781593279509",
+      "rating": 4,
+      "comment": "A great introduction to Javascript"
+    },
+    {
+      "id": 2,
+      "bookIsbn": "9781491943533",
+      "rating": 5,
+      "comment": "Dive into ES6 and the Future of JavaScript"
+    },
+    {
+      "id": 3,
+      "bookIsbn": "9781593277574",
+      "rating": 4,
+      "comment": "The Definitive Guide for JavaScript Developers"
+    },
+    {
+      "id": 4,
+      "bookIsbn": "9781449365035",
+      "rating": 5,
+      "comment": "An In-Depth Guide for Programmerst"
+    },
+    {
+      "id": 5,
+      "bookIsbn": "9781449365035",
+      "rating": 4,
+      "comment": "A great introduction to Javascript"
+    },
+    {
+      "id": 6,
+      "bookIsbn": "9781593279509",
+      "rating": 4,
+      "comment": "A great introduction to Javascript"
+    }
+  ]
+}

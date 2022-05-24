@@ -1,0 +1,16 @@
+{
+  "name": "subgraph-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --watch index.js --exec 'node index.js' -e js,graphql "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@graphql-yoga/node": "^2.5.0",
+    "graphql-tools": "^8.2.8",
+    "nodemon": "^2.0.13"
+  }
+}
